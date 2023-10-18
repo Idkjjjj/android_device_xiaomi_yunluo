@@ -6,7 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_yunluo.mk
+    $(LOCAL_DIR)/twrp_yunluo.mk
 
 COMMON_LUNCH_CHOICES := \
     omni_yunluo-user \
